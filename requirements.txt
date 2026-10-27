@@ -1,0 +1,8 @@
+streamlit>=1.30
+pandas>=2.0
+numpy
+jieba
+matplotlib
+wordcloud
+networkx
+plotly
